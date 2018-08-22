@@ -2,6 +2,7 @@
 
 
 #Check the connection with the host if they are reachable.
+
 ##ansible all -m ping -u username 
 
 
